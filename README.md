@@ -6,3 +6,6 @@ Please only use the available templates, as it helps us sort through them easier
 When creating an issue or feature request, please first check through open issues to make sure it doesn't already exist!
 
 ## ALWAYS INCLUDE A LOG WHEN POSSIBLE
+
+## DON'T USE ONE ISSUE FOR MULTIPLE SUGGESTIONS / BUG REPORTS
+It makes it hard to manage :(
